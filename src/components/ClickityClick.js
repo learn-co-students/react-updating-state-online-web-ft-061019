@@ -24,4 +24,4 @@ class ClickityClick extends React.Component {
         )
     }
 }
-export default ClickityClick;
+export default ClickityClick
